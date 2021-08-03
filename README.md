@@ -20,6 +20,12 @@ Here is the breakdown of top job titles in the dataset without any cleaning (exa
 
 ### Top companies
 
+These are the top companies by number of job posts. 
+Results are biased by the time period I scraped data, which has not been random. This bias will average out over time.
+
+![top companies](assets/top_companies.png)
+
+
 ### Salary Data 
 
 Only a fraction of the posts contain salary metadata. 
