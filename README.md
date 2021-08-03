@@ -11,8 +11,12 @@
 | Full-time | Hospital & Health Care, Medical Devices, and Pharmaceuticals | Engineering and Information Technology | Not Applicable       | Johnson & Johnson          | 1207\.0    | {"@context": "http://schema.org", "@type": "JobPosting", "datePosted": "2021-07-09T17:39:11.000Z", "description": "Ethicon, part of Johnson &amp; Johnson Medical Devices Companies, is recruiting for a ... | NaN | Ethicon, part of Johnson & Johnson Medical Devices Companies, is recruiting for a ...  | bachelor degree  | Santa Clara, CA   | 96\.0  | 2632810866  | https://www.linkedin.com/jobs/view/principal-full-stack-software-engineer-at-johnson-johnson-2632810866 | NaN | NaN | NaN | Principal Full Stack Software Engineer. |
 
 
-
 ### Top job titles
+
+I scrape a handful of keywords, such as "data scientist" and "software engineer", which biases these results. 
+Here is the breakdown of top job titles in the dataset without any cleaning (example: data scientist and senior data scientist are two different titles).
+
+![top job titles](assets/top_titles.png)
 
 ### Top companies
 
