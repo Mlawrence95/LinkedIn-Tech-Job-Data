@@ -40,9 +40,8 @@ Results are biased by the time period I scraped data, which has not been random.
 
 ### Salary Data 
 
-Only a fraction of the posts contain salary metadata. 
-The salary data here is likely skewed because of this, and will become outdated more with time due to inflation and other factors. 
-For now, though, the data is interesting!
+Only a fraction of the posts contain LinkedIn's salary estimates. 
+Tech is known to give substantial compensation on top of salary as well (stock, etc), so don't use these numbers to negotiate total compensation :)
 
 ![Salary Plot](assets/salaries.png)
 
@@ -50,7 +49,7 @@ For now, though, the data is interesting!
 ### Years of Experience
 
 Not all the metadata is reliable. 
-One trend that stands out is the amount of experience needed for a role. 
+One trend that stands out is in the amount of experience needed for a role. 
 No matter the job seniority level, the distribution of experience asked is consistently in the same range. 
 This suggests that experience ranges aren't taken seriously by job posters, at least when LinkedIn asks for it. 
 The actual range is much more likely to be reflected in the job description.
