@@ -55,3 +55,8 @@ This suggests that experience ranges aren't taken seriously by job posters, at l
 The actual range is much more likely to be reflected in the job description.
 
 ![Experience asked](assets/experience.png)
+
+
+### Top locations for tech jobs
+
+![Experience asked](assets/location_counts.png)
